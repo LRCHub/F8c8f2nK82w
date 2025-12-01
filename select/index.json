@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Pretty Savage",
+  "base_artist": "BLACKPINK",
+  "createdAt": "2025-12-01T04:16:25.143555Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Pretty Savage",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/01_Pretty_Savage_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pretty Savage - Live",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/02_Pretty_Savage_-_Live_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Pretty Savage (Japan Version)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/03_Pretty_Savage_(Japan_Version)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Pretty Savage - JP Ver.",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/04_Pretty_Savage_-_JP_Ver._BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Pretty Savage",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/05_Pretty_Savage_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Pretty Savage",
+      "artist": "Mishi Chwan",
+      "has_synced": true,
+      "path": "select/06_Pretty_Savage_Mishi_Chwan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Pretty Savage (Japan Version)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/07_Pretty_Savage_(Japan_Version)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Pretty Savage",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/08_Pretty_Savage_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Pretty Savage",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/09_Pretty_Savage_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Pretty Savage",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/10_Pretty_Savage_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Pretty Savage (Instrumental)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/11_Pretty_Savage_(Instrumental)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bug (feat. Lil 40 & Pretty Savage)",
+      "artist": "G Herbo feat. Lil 40 & Pretty Savage",
+      "has_synced": false,
+      "path": "select/12_Bug_(feat._Lil_40_&_Pretty_Savage)_G_Herbo_feat._Lil_40_&_Pretty_Savage.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bug (feat. Lil 40 & Pretty Savage)",
+      "artist": "G Herbo",
+      "has_synced": false,
+      "path": "select/13_Bug_(feat._Lil_40_&_Pretty_Savage)_G_Herbo.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pretty Savage",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/14_Pretty_Savage_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Pretty Savage",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/15_Pretty_Savage_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Pretty Savage (Japan Version)",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/16_Pretty_Savage_(Japan_Version)_BLACKPINK.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Pretty Savage",
+      "artist": "BLACKPINK",
+      "has_synced": true,
+      "path": "select/17_Pretty_Savage_BLACKPINK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Pretty Savage",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_01_Pretty_Savage_BLACKPINK.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Pretty Savage -JP Ver.-",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_02_Pretty_Savage_-JP_Ver.-_BLACKPINK.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Pretty Savage",
+      "artist": "BLACKPINK",
+      "has_synced": false,
+      "path": "select/pl_03_Pretty_Savage_BLACKPINK.txt"
+    }
+  ]
+}
