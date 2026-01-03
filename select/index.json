@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "Pretty Savage",
   "base_artist": "BLACKPINK",
-  "createdAt": "2025-12-01T04:16:25.143555Z",
+  "createdAt": "2026-01-03T16:09:57.189155Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -147,22 +147,6 @@
       "artist": "BLACKPINK",
       "has_synced": false,
       "path": "select/pl_01_Pretty_Savage_BLACKPINK.txt"
-    },
-    {
-      "id": "petitlyrics_2",
-      "source": "petitlyrics",
-      "title": "Pretty Savage -JP Ver.-",
-      "artist": "BLACKPINK",
-      "has_synced": false,
-      "path": "select/pl_02_Pretty_Savage_-JP_Ver.-_BLACKPINK.txt"
-    },
-    {
-      "id": "petitlyrics_3",
-      "source": "petitlyrics",
-      "title": "Pretty Savage",
-      "artist": "BLACKPINK",
-      "has_synced": false,
-      "path": "select/pl_03_Pretty_Savage_BLACKPINK.txt"
     }
   ]
 }
